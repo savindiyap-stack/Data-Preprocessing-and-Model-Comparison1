@@ -1,0 +1,20 @@
+Pipeline started at 2025-09-22 16:10:26.019445
+2025-09-22 16:10:26.019747 - INFO - Logging setup successful. Pipeline started.
+2025-09-22 16:10:26.022898 - INFO - Starting missing data handling.
+2025-09-22 16:10:26.032111 - INFO - Missing data handled successfully.
+2025-09-22 16:10:26.032308 - INFO - Starting categorical variable encoding.
+2025-09-22 16:10:26.037777 - INFO - Categorical variables encoded successfully.
+2025-09-22 16:10:26.037985 - INFO - Starting outlier removal.
+2025-09-22 16:10:26.039926 - INFO - Outliers removed from absences successfully.
+2025-09-22 16:10:26.040073 - INFO - Starting normalization/scaling.
+2025-09-22 16:10:26.045796 - INFO - Data normalized successfully.
+2025-09-22 16:10:26.046000 - INFO - Starting feature engineering.
+2025-09-22 16:10:26.047568 - INFO - Features engineered successfully.
+2025-09-22 16:10:26.047708 - INFO - Starting dimensionality reduction.
+2025-09-22 16:10:26.053064 - INFO - Dimensionality reduced successfully. Explained variance: [0.21116789 0.16948762 0.09781365 0.07488095 0.06979115]
+2025-09-22 16:10:26.053371 - INFO - Generating final correlation heatmap.
+2025-09-22 16:10:26.342591 - INFO - Correlation heatmap saved and downloaded.
+2025-09-22 16:10:26.495400 - INFO - Saving cleaned data to CSV.
+2025-09-22 16:10:26.508013 - INFO - Cleaned data saved and downloaded.
+2025-09-22 16:10:26.508208 - INFO - Downloading pipeline log.
+2025-09-22 16:10:26.511172 - INFO - Pipeline log downloaded.

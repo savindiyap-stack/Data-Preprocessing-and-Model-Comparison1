@@ -1,0 +1,2 @@
+Model,MAE,MSE,RMSE,R2,Best_Parameters
+LinearRegression_Tuned,4.107544038246462,25.81259045589123,5.08060926030444,0.04893009572843421,"{'model__fit_intercept': True, 'poly__degree': 1}"
